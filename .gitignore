@@ -1,3 +1,27 @@
+# git lfs install
+# git lfs track
+*.psd 
+*.png 
+*.jpg 
+*.Jpeg 
+*.tga
+*.tif
+*.tiff
+*.exr 
+*.hdr
+*.bmp
+*.gif 
+*.wav
+*.aiff
+*.mp3 
+*.ogg
+*.flac
+*.mp4
+*.mov 
+*.avi 
+*.webm
+*.fbx
+
 # Maya binary files and arnold tx files
 *.mb 
 *.tx 
